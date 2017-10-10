@@ -2,7 +2,7 @@ package Pro_6;
 
 import java.util.*;
 
-public class P57 {
+public class Pro57 {
 
 	public static void main(String[] args) {
 		Scanner in = new Scanner(System.in);
